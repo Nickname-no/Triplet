@@ -1,0 +1,16 @@
+C:\Users\Nick Petrenko\source\repos\Triple\bin\Debug\net5.0\Triple.exe
+C:\Users\Nick Petrenko\source\repos\Triple\bin\Debug\net5.0\Triple.deps.json
+C:\Users\Nick Petrenko\source\repos\Triple\bin\Debug\net5.0\Triple.runtimeconfig.json
+C:\Users\Nick Petrenko\source\repos\Triple\bin\Debug\net5.0\Triple.runtimeconfig.dev.json
+C:\Users\Nick Petrenko\source\repos\Triple\bin\Debug\net5.0\Triple.dll
+C:\Users\Nick Petrenko\source\repos\Triple\bin\Debug\net5.0\ref\Triple.dll
+C:\Users\Nick Petrenko\source\repos\Triple\bin\Debug\net5.0\Triple.pdb
+C:\Users\Nick Petrenko\source\repos\Triple\obj\Debug\net5.0\Triple.csproj.AssemblyReference.cache
+C:\Users\Nick Petrenko\source\repos\Triple\obj\Debug\net5.0\Triple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nick Petrenko\source\repos\Triple\obj\Debug\net5.0\Triple.AssemblyInfoInputs.cache
+C:\Users\Nick Petrenko\source\repos\Triple\obj\Debug\net5.0\Triple.AssemblyInfo.cs
+C:\Users\Nick Petrenko\source\repos\Triple\obj\Debug\net5.0\Triple.csproj.CoreCompileInputs.cache
+C:\Users\Nick Petrenko\source\repos\Triple\obj\Debug\net5.0\Triple.dll
+C:\Users\Nick Petrenko\source\repos\Triple\obj\Debug\net5.0\ref\Triple.dll
+C:\Users\Nick Petrenko\source\repos\Triple\obj\Debug\net5.0\Triple.pdb
+C:\Users\Nick Petrenko\source\repos\Triple\obj\Debug\net5.0\Triple.genruntimeconfig.cache
