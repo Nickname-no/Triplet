@@ -1,1 +1,1 @@
-# Triplet
+# TripletThe program finds triplets in multi-threaded and single-threaded mode. Multithreading is slower than single-threading because threads use a shared resource, which makes it necessary to lock threads when using a shared resource
